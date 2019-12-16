@@ -1,5 +1,5 @@
 # Whatsapp Auto Messager
-> Aplication to auto send messages to one of yuor contacts in Whatsapp
+> Aplication to auto send messages to one of your contacts in Whatsapp
 
   The WhatsappAutoMessager uses the Selenium python library in order to interact with the web.whatsapp.com html in order to joke with some of your contacts and send the same massage as many times you want to.
   In order to send messages, the code does the analysis of the important HTML parts such as the text field and the name of the contact that appear in the GUI.
