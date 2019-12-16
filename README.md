@@ -15,7 +15,7 @@
 
 OS X & Linux:
 
-```
+```sh
 pip3 install selenium
 sudo apt-get install firefox-geckodriver git
 git clone https://github.com/Wanghley/WhatsappAutoMessager.git
@@ -25,7 +25,8 @@ python3 WhatsappMessagerFucker.py
 
 Windows:
 
-```coming soon...
+```sh
+coming soon...
 ```
 
 ## Usage example
