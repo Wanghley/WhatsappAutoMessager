@@ -42,7 +42,7 @@ To development use the installation process guide!
 
 Wanghley Soares Martins – [@Wanghley](https://www.instagram.com/Wanghley/) – wanghleys@gmail.com
 
-Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
+Distributed under the GPL-3.0 license. See [``LICENSE``](https://github.com/Wanghley/WhatsappAutoMessager/blob/master/LICENSE) for more information.
 
 [https://github.com/Wanghley](https://github.com/Wanghley)
 
