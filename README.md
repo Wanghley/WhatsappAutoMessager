@@ -9,7 +9,7 @@
   In order to send messages, the code does the analysis of the important HTML parts such as the text field and the name of the contact that appear in the GUI.
 
 
-![](header.png)
+![](img.png)
 
 ## Installation
 
